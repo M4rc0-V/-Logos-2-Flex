@@ -1,0 +1,10 @@
+img{
+    width:400px;
+    height:auto;
+    border: 3px solid lightgrey;
+}
+
+body{
+    display:flex
+    justify-content: space-evenly
+}
